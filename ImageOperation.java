@@ -70,7 +70,6 @@ public class ImageOperation {
             int key = Integer.parseInt(input);
             operation(key);
         });
-
         // System.out.println("this is test");
     }
 }
